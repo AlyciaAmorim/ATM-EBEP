@@ -7,7 +7,7 @@ import java.util.List;
 import com.atm.software.ContaCorrente;
 import com.atm.software.Usuario;
 
-public class BancoDeDados {
+public class BancoDeDados { //classe banco de dados !
 	
 	List<ContaCorrente> contas = new ArrayList<ContaCorrente>();
 	
